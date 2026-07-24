@@ -85,3 +85,18 @@ embedded/classes/ntut_embedded_systems/assignments/mqtt/config.py
 
 # digital twins (honestly ignoring this entire folder for now)
 digital_twins/
+
+# KiCad
+.history
+embedded/pcb/**/*.kicad_pcb-bak
+embedded/pcb/**/*.kicad_sch-bak
+embedded/pcb/**/*.kicad_prl
+embedded/pcb/**/~*.lck
+embedded/pcb/**/_autosave-*
+embedded/pcb/**/*-save.pro
+embedded/pcb/**/*-save.kicad_pcb
+embedded/pcb/**/fp-info-cache
+embedded/pcb/**/*-backups/
+embedded/pcb/**/*.net
+embedded/pcb/**/*.dsn
+embedded/pcb/**/*.ses
