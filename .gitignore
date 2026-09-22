@@ -87,7 +87,7 @@ embedded/classes/ntut_embedded_systems/assignments/mqtt/config.py
 digital_twins/
 
 # KiCad
-.history
+**/.history/
 embedded/pcb/**/*.kicad_pcb-bak
 embedded/pcb/**/*.kicad_sch-bak
 embedded/pcb/**/*.kicad_prl
