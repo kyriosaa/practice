@@ -1,5 +1,5 @@
-Embedded Systems
+Computer Graphics
 
 National Taipei University of Technology
 
-MY1S2
+BY2S1

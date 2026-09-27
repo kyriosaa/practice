@@ -1,5 +1,5 @@
-Embedded Systems
+Building Deep Learning Applications
 
 National Taipei University of Technology
 
-MY1S2
+MY2S1

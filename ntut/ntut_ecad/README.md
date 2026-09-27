@@ -1,5 +1,5 @@
-Electronic Circuit Analysis and Design Class
+Electronic Circuit Analysis and Design
 
 National Taipei University of Technology
 
-Masters Year 1 Semester 1
+MY1S1
