@@ -42,6 +42,7 @@ def pad(img, p):
 
     return padded
 
+# Q3 & Q4
 def conv(img, kernel, stride=1, padding=0):
     kh, kw = kernel.shape
     padded = pad(img, padding)

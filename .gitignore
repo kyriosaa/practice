@@ -100,3 +100,7 @@ embedded/pcb/**/*-backups/
 embedded/pcb/**/*.net
 embedded/pcb/**/*.dsn
 embedded/pcb/**/*.ses
+
+# ntut stuff
+ntut/ntut_cv/**/*.pdf
+ntut/ntut_cv/**/*.docx
