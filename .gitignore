@@ -104,3 +104,4 @@ embedded/pcb/**/*.ses
 # ntut stuff
 ntut/ntut_cv/**/*.pdf
 ntut/ntut_cv/**/*.docx
+ntut/ntut_aiml/ex1/submit
