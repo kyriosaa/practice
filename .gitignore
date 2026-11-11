@@ -79,9 +79,6 @@ SIMPLIS_Data/
 *.xlsx
 **/GS66508T-Spice-Models-V4P1/
 **/GS66516T-Spice-Models-V4P1/
-embedded/classes/ntut_lab/esp32_http/data/
-embedded/classes/ntut_lab/esp32_http/tools/
-embedded/classes/ntut_embedded_systems/assignments/mqtt/config.py
 
 # digital twins (honestly ignoring this entire folder for now)
 digital_twins/
@@ -102,6 +99,9 @@ embedded/pcb/**/*.dsn
 embedded/pcb/**/*.ses
 
 # ntut stuff
+ntut/ntut_lab/esp32_http/data/
+ntut/ntut_lab/esp32_http/tools/
+ntut/ntut_embedded_systems/assignments/mqtt/config.py
 ntut/ntut_cv/**/*.pdf
 ntut/ntut_cv/**/*.docx
 ntut/ntut_aiml/ex1/submit
@@ -109,3 +109,8 @@ ntut/ntut_dl/exam01/data/
 ntut/ntut_dl/exam01/runs/
 ntut/ntut_dl/exam01/weights/
 ntut/ntut_dl/exam01/submissions/*.pt
+ntut/ntut_dl/hw02/train/
+ntut/ntut_dl/hw02/valid/
+ntut/ntut_dl/hw02/test/
+ntut/ntut_dl/hw02/runs/
+ntut/ntut_dl/hw02/weights/

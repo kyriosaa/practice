@@ -1,0 +1,13 @@
+{
+  "id": "phongjirakul/xwod-yolo-train",
+  "title": "xwod-yolo-train",
+  "code_file": "xwod_kaggle.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": ["115-1-dl-app-hw2"],
+  "kernel_sources": []
+}
