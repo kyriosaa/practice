@@ -105,6 +105,9 @@ ntut/ntut_embedded_systems/assignments/mqtt/config.py
 ntut/ntut_cv/**/*.pdf
 ntut/ntut_cv/**/*.docx
 ntut/ntut_aiml/ex1/submit
+ntut/ntut_aiml/ex1/ex_q/*.pdf
+ntut/ntut_aiml/ex2/submit
+ntut/ntut_aiml/ex2/ex_q/*.pdf
 ntut/ntut_dl/exam01/data/
 ntut/ntut_dl/exam01/runs/
 ntut/ntut_dl/exam01/weights/
